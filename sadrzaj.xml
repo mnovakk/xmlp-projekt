@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tecajevi_lista>
+
+    <tecaj>
+        <ime>PYTHON</ime>
+        <lokacija>Online</lokacija>
+        <datum>01.07.2022</datum>
+        <opis>Naučite temelje programiranja i postanite programer! Ovaj tečaj koristi jedan od najpopularnijih jezika za programiranje, Python.</opis>
+        <cijena>1399,00 HRK</cijena>
+    </tecaj>
+
+    <tecaj>
+        <ime>HTML I CSS</ime>
+        <lokacija>Online</lokacija>
+        <datum>03.07.2022</datum>
+        <opis>Na ovom tečaju naučit ćeš front-end (HTML, CSS) programiranje i unaprijediti svoje znanje pomoću popularnog okvira Bootstrap.</opis>
+        <cijena>1199,00 HRK</cijena>
+    </tecaj>
+
+    <tecaj>
+        <ime>SQL I BAZE</ime>
+        <lokacija>Online</lokacija>
+        <datum>10.07.2022</datum>
+        <opis>Izrada i planiranje baza podataka jedna je od najvažnijih vještina u razvoju informatičkih proizvoda. Prijavi se i nauči je!</opis>
+        <cijena>1299,00 HRK</cijena>
+    </tecaj>
+    
+</tecajevi_lista>
