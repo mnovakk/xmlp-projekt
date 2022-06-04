@@ -1,4 +1,5 @@
-Projekt za kolegij XMLP, lipanj 2022
+# Projekt za kolegij XMLP, lipanj 2022
 
-UPUTE ZA POKRETANJE:
+Upute za pokretanje:
+
 za pokretanje vam treba XAMPP
